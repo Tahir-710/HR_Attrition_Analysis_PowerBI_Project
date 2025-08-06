@@ -65,7 +65,7 @@ This interactive HR Attrition Analysis Dashboard explores key patterns and trend
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hr-attrition-dashboard.git
+   https://github.com/Tahir-710/HR_Attrition_Analysis_PowerBI_Project.git
 
 2.**Open the Dashboard**
   - Launch **Power BI Desktop**.
