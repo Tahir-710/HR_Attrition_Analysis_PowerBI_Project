@@ -83,25 +83,25 @@ This interactive HR Attrition Analysis Dashboard explores key patterns and trend
 
 🔮 Future Improvements
 🧠 Predictive Modeling Integration
-Incorporate machine learning algorithms to forecast employee attrition risk based on historical data.
+  -Incorporate machine learning algorithms to forecast employee attrition risk based on historical data.
 
 📡 Real-Time Data Connectivity
-Connect the dashboard to live HR databases to enable real-time tracking and monitoring of employee trends.
+  -Connect the dashboard to live HR databases to enable real-time tracking and monitoring of employee trends.
 
 🧭 Drill-Through & Tooltip Enhancements
-Add drill-through capabilities and contextual tooltips for deeper, more interactive data exploration.
+  -Add drill-through capabilities and contextual tooltips for deeper, more interactive data exploration.
 
 👥 Role-Based Dashboards
-Create customized dashboard views for HR personnel, team managers, and executives with role-specific KPIs.
+  -Create customized dashboard views for HR personnel, team managers, and executives with role-specific KPIs.
 
 💬 Sentiment Analysis Integration
-Analyze employee feedback and survey data to assess morale and identify emotional drivers of attrition.
+  -Analyze employee feedback and survey data to assess morale and identify emotional drivers of attrition.
 
 📊 Industry Benchmarking
-Include comparative metrics to benchmark internal attrition rates against industry or regional standards.
+  -Include comparative metrics to benchmark internal attrition rates against industry or regional standards.
 
 📱 Mobile Responsiveness
-Optimize the dashboard layout and visuals for seamless access on mobile and tablet devices.
+  -Optimize the dashboard layout and visuals for seamless access on mobile and tablet devices.
 ## 📂 Folder Structure
 
 ```bash
