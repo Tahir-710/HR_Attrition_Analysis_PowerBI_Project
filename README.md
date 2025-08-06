@@ -1,6 +1,6 @@
 # 📊 HR_Attrition_Analysis_PowerBI_Project
 
-![Dashboard Screenshot](dashboard.PNG)
+![Dashboard Screenshot](https://github.com/Tahir-710/HR_Attrition_Analysis_PowerBI_Project/blob/ba6da08f1657044418fd823e8de0303986a0bdbb/HR_Attrition%20Dashboard_Modern.PNG)
 
 ## 🔍 Overview
 
