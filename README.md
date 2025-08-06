@@ -81,18 +81,7 @@ This interactive HR Attrition Analysis Dashboard explores key patterns and trend
   - Analyze built-in charts and metrics to identify high-risk attrition segments.
   - Use the insights to support strategic HR decisions, improve retention, and monitor workforce trends.
 
-
-## 📂 Folder Structure
-
-```bash
-├── dashboard.PNG         # Main dashboard screenshot
-├── HR_Attrition.pbix     # Power BI file (if applicable)
-├── README.md             # This file
-└── data/
-    └── HR_Attrition.csv  # Cleaned dataset
-
-
-## 🔮 Future Improvements
+🔮 Future Improvements
 🧠 Predictive Modeling Integration
 Incorporate machine learning algorithms to forecast employee attrition risk based on historical data.
 
@@ -113,6 +102,16 @@ Include comparative metrics to benchmark internal attrition rates against indust
 
 📱 Mobile Responsiveness
 Optimize the dashboard layout and visuals for seamless access on mobile and tablet devices.
+## 📂 Folder Structure
+
+```bash
+├── dashboard.PNG         # Main dashboard screenshot
+├── HR_Attrition.pbix     # Power BI file (if applicable)
+├── README.md             # This file
+└── data/
+    └── HR_Attrition.csv  # Cleaned dataset
+
+
 
 
 📬 Contact
