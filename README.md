@@ -122,4 +122,4 @@ This interactive HR Attrition Analysis Dashboard explores key patterns and trend
 Tahir Sajjad
 📍 Lahore, Pakistan
 📧 butttahirg@gmail.com
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/tahir-sajjad-butt-a8b384249)
