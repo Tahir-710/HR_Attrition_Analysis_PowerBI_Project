@@ -2,6 +2,7 @@
 
 ![Dashboard Screenshot](https://github.com/Tahir-710/HR_Attrition_Analysis_PowerBI_Project/blob/ba6da08f1657044418fd823e8de0303986a0bdbb/HR_Attrition%20Dashboard_Modern.PNG)
 
+![Dashboard Screenshot](https://github.com/Tahir-710/HR_Attrition_Analysis_PowerBI_Project/blob/43ba486fef51d09d457b358e99363971f57f38ab/HR_Attrition%20Dashboard_Professional.PNG)
 ## 🔍 Overview
 
 This interactive HR Attrition Analysis Dashboard explores key patterns and trends in employee turnover using a structured dataset of **1,470 employees**. Built to support HR and leadership teams in identifying risk factors for attrition, the dashboard delivers actionable insights through compelling visual storytelling.
